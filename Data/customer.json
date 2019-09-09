@@ -1,0 +1,102 @@
+[
+    {
+      "uuid": "c1",
+      "taskMinSeconds": "5",
+      "taskMaxSeconds": "6"
+    },
+    {
+      "uuid": "c2",
+      "taskMinSeconds": 3,
+      "taskMaxSeconds": 7
+    },
+    {
+      "uuid": "c3",
+      "taskMinSeconds": 1,
+      "taskMaxSeconds": 6
+    },
+    {
+      "uuid": "c4",
+      "taskMinSeconds": 5,
+      "taskMaxSeconds": 6
+    },
+    {
+      "uuid": "c5",
+      "taskMinSeconds": 5,
+      "taskMaxSeconds": 8
+    },
+    {
+      "uuid": "c6",
+      "taskMinSeconds": 4,
+      "taskMaxSeconds": 7
+    },
+    {
+      "uuid": "c7",
+      "taskMinSeconds": 2,
+      "taskMaxSeconds": 8
+    },
+    {
+      "uuid": "c8",
+      "taskMinSeconds": 1,
+      "taskMaxSeconds": 10
+    },
+    {
+      "uuid": "c9",
+      "taskMinSeconds": 5,
+      "taskMaxSeconds": 10
+    },
+    {
+      "uuid": "c10",
+      "taskMinSeconds": 2,
+      "taskMaxSeconds": 6
+    },
+    {
+      "uuid": "c11",
+      "taskMinSeconds": 4,
+      "taskMaxSeconds": 6
+    },
+    {
+      "uuid": "c12",
+      "taskMinSeconds": 1,
+      "taskMaxSeconds": 9
+    },
+    {
+      "uuid": "c13",
+      "taskMinSeconds": 4,
+      "taskMaxSeconds": 7
+    },
+    {
+      "uuid": "c14",
+      "taskMinSeconds": 3,
+      "taskMaxSeconds": 7
+    },
+    {
+      "uuid": "c15",
+      "taskMinSeconds": 1,
+      "taskMaxSeconds": 6
+    },
+    {
+      "uuid": "c16",
+      "taskMinSeconds": 1,
+      "taskMaxSeconds": 9
+    },
+    {
+      "uuid": "c17",
+      "taskMinSeconds": 2,
+      "taskMaxSeconds": 7
+    },
+    {
+      "uuid": "c18",
+      "taskMinSeconds": 5,
+      "taskMaxSeconds": 9
+    },
+    {
+      "uuid": "c19",
+      "taskMinSeconds": 5,
+      "taskMaxSeconds": 10
+    },
+    {
+      "uuid": "c20",
+      "taskMinSeconds": 3,
+      "taskMaxSeconds": 10
+    }
+  ]
